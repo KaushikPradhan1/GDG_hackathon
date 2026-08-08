@@ -14,8 +14,6 @@ export async function fetchRequests() {
     return await res.json();
   } catch (error) {
     console.error("Fetch Data Error:", error.message);
-    // Return an empty array so the frontend doesn't crash, 
-    // it will just show the "QUEUE_EMPTY" state
     return [];
   }
 }
