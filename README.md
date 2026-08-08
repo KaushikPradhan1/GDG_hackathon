@@ -1,9 +1,9 @@
-# ⚡ Nexus Engine: Autonomous Security Triage
+# ⚡ Fulcrum Engine: Autonomous Security Triage
 
 An intelligent, agent-based security triage platform designed to intercept, analyze, and score internal enterprise requests in real-time. Nexus Engine eliminates manual verification bottlenecks by utilizing a state-machine AI workflow to automatically approve routine requests and flag high-risk anomalies for human review.
 
 ## 🚀 The Vision
-IT and security teams are drowning in routine access requests. Nexus Engine acts as a frontline autonomous agent. By combining strict data typing with generative AI, it analyzes the context, location, and behavioral markers of a request, generating a live audit trail and a deterministic risk score before a human ever opens the ticket.
+IT and security teams are drowning in routine access requests. Fulcrum Engine acts as a frontline autonomous agent. By combining strict data typing with generative AI, it analyzes the context, location, and behavioral markers of a request, generating a live audit trail and a deterministic risk score before a human ever opens the ticket.
 
 ## ✨ Features
 *   **Agentic AI Workflow:** Powered by LangGraph, treating ticket triage as an automated state machine.
